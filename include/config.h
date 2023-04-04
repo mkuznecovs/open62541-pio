@@ -1,0 +1,4 @@
+#define UA_ARCHITECTURE_FREERTOSLWIP
+#define UA_ENABLE_AMALGAMATION
+#define UA_ARCHITECTURE_FREERTOSLWIP_POSIX_CLOCK
+#define DUA_getaddrinfo custom_getaddrinfo
