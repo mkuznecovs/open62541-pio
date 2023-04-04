@@ -13,10 +13,6 @@
   "build": {
 	  "extraScript": "extra_script.py",
     "flags": [
-      "-DUA_ARCHITECTURE_FREERTOSLWIP",
-      "-DUA_ENABLE_AMALGAMATION",
-      "-DUA_ARCHITECTURE_FREERTOSLWIP_POSIX_CLOCK",
-      "-DUA_getaddrinfo=custom_getaddrinfo",
       "-Wno-error=format= -Wno-format"
     ]
   },
