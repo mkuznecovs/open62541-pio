@@ -18,8 +18,6 @@
 #ifndef OPEN62541_H_
 #define OPEN62541_H_
 
-#include "config.h"
-
 /*********************************** amalgamated original file "/home/maksimskuznecovs/Documents/Projects/Screwdriver/Repositories/open62541-esp32/build/open62541/src_generated/open62541/config.h" ***********************************/
 
 /* This Source Code Form is subject to the terms of the Mozilla Public
