@@ -10,7 +10,6 @@
     "url": "https://github.com/open62541/open62541"
   },
   "build": {
-    "extraScript": "extra_script.py",
     "flags": [
       "-Wno-error=format= -Wno-format"
     ]
